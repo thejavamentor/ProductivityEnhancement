@@ -2,4 +2,8 @@ Excel Productivity Improvement tricks.
 
 1. If COUNTIF(Range, value) = > will return 1, if matched otherwise 0
 
-2. 
+2. Add $Symbol make the reference as static reference.
+e.g. below one select cell value form B3 to B15
+$B$3:$B$15
+
+
