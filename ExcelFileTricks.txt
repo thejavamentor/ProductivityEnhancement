@@ -1,0 +1,5 @@
+Excel Productivity Improvement tricks.
+
+1. If COUNTIF(Range, value) = > will return 1, if matched otherwise 0
+
+2. 
